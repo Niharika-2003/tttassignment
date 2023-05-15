@@ -2,7 +2,7 @@
 
 ## Hosting
 
-This project is also hosted on netlify. You can view it live here <[your-link-to-the-hosted-project](https://niharika-ttt-assignment.netlify.app/)>
+This project is also hosted on netlify. You can view it live <[here](https://niharika-ttt-assignment.netlify.app/)>
 
 ## React Histogram Component
 
