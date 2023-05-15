@@ -1,5 +1,9 @@
 # tttassignment
 
+## Hosting
+
+This project is also hosted on netlify. You can view it live here <[your-link-to-the-hosted-project](https://niharika-ttt-assignment.netlify.app/)>
+
 ## React Histogram Component
 
 This React component is a simple histogram that displays the 20 most frequently occurring words in the given text file. The data is fetched from the URL and the component uses the Chart.js library to visualize the data in a bar chart.
